@@ -1,20 +1,98 @@
 [
   {
+    "id": "atopic",
+    "name": "Atopic",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/atopic.json",
+    "enabled": true
+  },
+  {
     "id": "davidkazuma",
     "name": "Davidkazuma",
-    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/davidkazuma.json",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/davidkazuma.json",
     "enabled": true
   },
   {
     "id": "dodi",
     "name": "Dodi",
-    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/dodi.json",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/dodi.json",
+    "enabled": true
+  },
+  {
+    "id": "empress",
+    "name": "Empress",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/empress.json",
+    "enabled": true
+  },
+  {
+    "id": "fit",
+    "name": "Fit",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/fit.json",
+    "enabled": true
+  },
+  {
+    "id": "freetporg",
+    "name": "Freetporg",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/freetporg.json",
+    "enabled": true
+  },
+  {
+    "id": "gog",
+    "name": "Gog",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/gog.json",
     "enabled": true
   },
   {
     "id": "hydrasources",
     "name": "Hydrasources",
-    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/hydrasources.json",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/hydrasources.json",
+    "enabled": true
+  },
+  {
+    "id": "kaowskrew",
+    "name": "Kaowskrew",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/kaowskrew.json",
+    "enabled": true
+  },
+  {
+    "id": "onlinefix",
+    "name": "Onlinefix",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/onlinefix.json",
+    "enabled": true
+  },
+  {
+    "id": "rexa",
+    "name": "Rexa",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/rexa.json",
+    "enabled": true
+  },
+  {
+    "id": "rutraker",
+    "name": "Rutraker",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/rutraker.json",
+    "enabled": true
+  },
+  {
+    "id": "shisuy-s",
+    "name": "Shisuy'S",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/shisuy%27s.json",
+    "enabled": true
+  },
+  {
+    "id": "sources-index",
+    "name": "Sources Index",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/sources_index.json",
+    "enabled": true
+  },
+  {
+    "id": "steamgg",
+    "name": "Steamgg",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/steamgg.json",
+    "enabled": true
+  },
+  {
+    "id": "steamrip",
+    "name": "Steamrip",
+    "url": "https://raw.githubusercontent.com/Pixelmodeler/jsons/main/steamrip.json",
     "enabled": true
   }
 ]
