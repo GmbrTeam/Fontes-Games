@@ -1,6 +1,20 @@
 [
   {
-    "name": "davidkazuma.json",
-    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/davidkazuma.json"
+    "id": "davidkazuma",
+    "name": "Davidkazuma",
+    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/davidkazuma.json",
+    "enabled": true
+  },
+  {
+    "id": "dodi",
+    "name": "Dodi",
+    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/dodi.json",
+    "enabled": true
+  },
+  {
+    "id": "hydrasources",
+    "name": "Hydrasources",
+    "url": "https://raw.githubusercontent.com/GmbrTeam/Fontes-Games/main/hydrasources.json",
+    "enabled": true
   }
 ]
